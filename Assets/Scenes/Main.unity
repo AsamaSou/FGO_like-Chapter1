@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 106149982}
   - component: {fileID: 106149981}
   m_Layer: 5
-  m_Name: EnemyInfo1
+  m_Name: EnemyInfo2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2304,7 +2304,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &395071388
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6576,10 +6576,10 @@ MonoBehaviour:
   servantClass: 0
   cards: 0000000000000000000000000000000000000000
   sprite: {fileID: 0}
-  hpBar: {fileID: 313038361}
+  hpBar: {fileID: 625109582}
   hasObjects: []
   damageText: {fileID: 1562797323}
-  hpText: {fileID: 850989286}
+  hpText: {fileID: 205603079}
   characterPrefab: {fileID: 1284790492749206, guid: 550e1583d43f5c14691dda04c2734a54,
     type: 2}
 --- !u!61 &1069142822
@@ -8496,10 +8496,10 @@ MonoBehaviour:
   servantClass: 0
   cards: 0000000000000000000000000000000000000000
   sprite: {fileID: 0}
-  hpBar: {fileID: 313038361}
+  hpBar: {fileID: 1894045155}
   hasObjects: []
   damageText: {fileID: 2121580350}
-  hpText: {fileID: 850989286}
+  hpText: {fileID: 267161491}
   characterPrefab: {fileID: 1284790492749206, guid: 550e1583d43f5c14691dda04c2734a54,
     type: 2}
 --- !u!61 &1307002688
